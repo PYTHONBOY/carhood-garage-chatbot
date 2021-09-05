@@ -1,0 +1,48 @@
+{
+  "eventDataList": [
+    {
+      "id": "1",
+      "eventDate": "25 Aug",
+      "eventTitle": "consider using synthetic motor oil",
+      "eventTime": "5:30pm - 7.00pm",
+      "eventLocation": "Juja, Nairobi",
+      "eventdesc": "Synthetic engine oils are produced through a synthesis process that takes very small molecules",
+      "eventLink": ""
+    },
+    {
+      "id": "2",
+      "eventDate": "16 Aug",
+      "eventTitle": "Parts that should be replaced at what intervals",
+      "eventTime": "5:30pm - 7.00pm",
+      "eventLocation": "Juja, Nairobi",
+      "eventdesc": "Lorem ipsum dolor sit amet consectetur. Como Ssee hou",
+      "eventLink": ""
+    },
+    {
+      "id": "3",
+      "eventDate": "8 Aug",
+      "eventTitle": "Keeping track of routine maintenance",
+      "eventTime": "5:30pm - 7.00pm",
+      "eventLocation": "Juja, Nairobi",
+      "eventdesc": "Lorem ipsum dolor sit amet consectetur. Como Ssee hou",
+      "eventLink": ""
+    }
+  ],
+  "faqDataList": [
+    {
+      "id": "1",
+      "faqTitle": "Do we do Autobody repair?",
+      "faqDesc": "We deal with all makes of vehicles, taking care of the entire vehicle from its body to the interior. We use modern technology and modern equipment."
+    },
+    {
+      "id": "2",
+      "faqTitle": "How are Engine Diagnosis done?",
+      "faqDesc": "We can quickly diagnose engine problems. A well-maintained car is more fuel efficient, produces fewer greenhouse gas emissions, is more reliable, and safer for the road."
+    },
+    {
+      "id": "3",
+      "faqTitle": "Doing Oil Change?",
+      "faqDesc": "This isn’t your standard oil change. Whether your vehicle needs conventional, high mileage, synthetic blend or full synthetic oil, we are ready."
+    }
+  ]
+}
