@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6293066-9b69-43f4-bb14-27ee55f69397" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="georgethedeveloper77 &lt;georgekarani77@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wLf4V4KboKTKl93BAaLNAXDpzD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/chatbot" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6293066-9b69-43f4-bb14-27ee55f69397" name="Default Changelist" comment="" />
+      <created>1628242598430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628242598430</updated>
+      <workItem from="1628242602989" duration="2592000" />
+      <workItem from="1629133900878" duration="2522000" />
+      <workItem from="1629137303843" duration="1745000" />
+      <workItem from="1629355086673" duration="10765000" />
+      <workItem from="1629403191104" duration="135000" />
+      <workItem from="1629422219330" duration="475000" />
+      <workItem from="1629434396257" duration="975000" />
+      <workItem from="1629615661021" duration="4833000" />
+      <workItem from="1629655328379" duration="884000" />
+      <workItem from="1629818198362" duration="123000" />
+      <workItem from="1630842837479" duration="2650000" />
+      <workItem from="1630873884552" duration="4169000" />
+    </task>
+    <task id="LOCAL-00001" summary="PWA">
+      <created>1629134181559</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629134181559</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Refactoring v2">
+      <created>1629137330550</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1629137330550</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Refactoring v3">
+      <created>1629137496195</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1629137496195</updated>
+    </task>
+    <task id="LOCAL-00004" summary="refactoring v1.0.0">
+      <created>1629402111885</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629402111885</updated>
+    </task>
+    <task id="LOCAL-00005" summary="refactoring v1.0.0">
+      <created>1629402234326</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1629402234326</updated>
+    </task>
+    <task id="LOCAL-00006" summary="refactoring v1">
+      <created>1629403296289</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1629403296289</updated>
+    </task>
+    <task id="LOCAL-00007" summary="KommunicateChat">
+      <created>1629616493095</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1629616493095</updated>
+    </task>
+    <task id="LOCAL-00008" summary="KommunicateChat">
+      <created>1629618033819</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1629618033819</updated>
+    </task>
+    <task id="LOCAL-00009" summary="KommunicateChat">
+      <created>1629621628420</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1629621628420</updated>
+    </task>
+    <task id="LOCAL-00010" summary="refactoring - appID">
+      <created>1629818277766</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1629818277766</updated>
+    </task>
+    <task id="LOCAL-00011" summary="python chatbot">
+      <created>1630876600446</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1630876600447</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="PWA" />
+    <MESSAGE value="Refactoring v2" />
+    <MESSAGE value="Refactoring v3" />
+    <MESSAGE value="refactoring v1.0.0" />
+    <MESSAGE value="refactoring v1" />
+    <MESSAGE value="KommunicateChat" />
+    <MESSAGE value="refactoring - appID" />
+    <MESSAGE value="python chatbot" />
+    <option name="LAST_COMMIT_MESSAGE" value="python chatbot" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="220" y="355" width="591" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1629135213439">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="220" y="355" width="591" height="403" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1629135213439" />
+    <state width="995" height="274" key="GridCell.Tab.0.bottom" timestamp="1629136435990">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="995" height="274" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1629136435990" />
+    <state width="995" height="274" key="GridCell.Tab.0.center" timestamp="1629136435989">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="995" height="274" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1629136435989" />
+    <state width="995" height="274" key="GridCell.Tab.0.left" timestamp="1629136435989">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="995" height="274" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1629136435989" />
+    <state width="995" height="274" key="GridCell.Tab.0.right" timestamp="1629136435990">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="995" height="274" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1629136435990" />
+    <state x="115" y="275" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1630876607346">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="115" y="275" width="800" height="563" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1630876607346" />
+    <state x="831" y="510" width="841" height="570" key="find.popup" timestamp="1629619997301">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="831" y="510" width="841" height="570" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1629619997301" />
+  </component>
+</project>
